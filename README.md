@@ -6,4 +6,4 @@ This a landscape made on Blot Editor using javascript, Where lines are used to d
 
 ## Output Image
 
-![image](https://github.com/user-attachments/assets/1a09686c-8590-4cb2-abdc-b238f4775617)
+![image](https://github.com/user-attachments/assets/fcf8f40b-da82-4ee0-8313-6b2dc01b4c9b)
