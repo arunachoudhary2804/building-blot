@@ -1,7 +1,8 @@
-// welcome to blot!
-
-// check out this guide to learn how to program in blot
-// https://blot.hackclub.com/editor?guide=start
+/*
+@title: Line Art - Building
+@author: Aruna Chodhary
+@snapshot: snapshot0.png
+*/
 
 const width = 125;
 const height = 125;
@@ -149,14 +150,14 @@ drawLines(plant2);
 
 const bush = [
   bt.nurbs([
-    [59.9, 51.5],
-    [38.1, 51.3],[49.3, 53.3],
-    [47.3, 56.6],[51.7, 56.8],
-    [52.5, 53.8],[51.1, 54.0],
-    [55.4, 59.1],[55.6, 52.4],
-    [54.5, 57.8],[58.8, 54.3],
-    [56.7, 51.8],[52.9, 52.1],
-    [63.3, 56.5],[66.3, 52.4],
+    [57.5, 51.5],
+    [37.1, 50.5],[50.1, 53.2],
+    [47.1, 55.6],[52.2, 57.8],
+    [53.2, 53.0],[50.8, 54.6],
+    [55.6, 60.1],[55.9, 52.1],
+    [54.1, 58.3],[60.2, 54.9],
+    [59.9, 52.8],[56.5, 53.6],
+    [64.0, 55.6],[66.3, 52.4],
 
   ])
 ]
